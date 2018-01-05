@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"/Users/andrey.kopitsa/EPAM/VAGRANTFILES/epam/CDP/cdp-3.9/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/andrey.kopitsa/EPAM/VAGRANTFILES/epam/CDP/cdp-3.9","disabled":false,"__vagrantfile":true}}}
